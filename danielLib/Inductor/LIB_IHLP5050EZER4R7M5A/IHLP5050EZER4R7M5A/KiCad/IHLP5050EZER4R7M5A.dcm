@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IHLP5050EZER4R7M5A
+D 4.7 H Shielded Molded Inductor 15.3 A 10.1mOhm Max Nonstandard
+K
+F https://www.vishay.com/docs/34507/ihlp-5050ez-5a.pdf
+$ENDCMP
+#
+#End Doc Library

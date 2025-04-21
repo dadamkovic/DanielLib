@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SQJ951EP_T1_GE3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Vishay", "SQJ951EP-T1_GE3" (!) = "", "SQJ968EPT1GE3", "Other", "78-SQJ951EP-T1_GE3", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SQJ951EP-T1_GE3?qs=ILgNtqsyH20s79Ingr8BFg%3D%3D", "MOSFET Dual P-Channel 30V AEC-Q101 Qualified", "http://www.vishay.com/docs/63658/sqj951ep.pdf"
+END_PART
+
+END.

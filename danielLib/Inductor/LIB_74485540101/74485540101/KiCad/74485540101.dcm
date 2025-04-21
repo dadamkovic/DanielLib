@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74485540101
+D Coupled Inductors WE-CFWI Cpld Flatwr 10uH 13A 13.9mOhms
+K
+F https://www.we-online.com/catalog/datasheet/74485540101.pdf
+$ENDCMP
+#
+#End Doc Library

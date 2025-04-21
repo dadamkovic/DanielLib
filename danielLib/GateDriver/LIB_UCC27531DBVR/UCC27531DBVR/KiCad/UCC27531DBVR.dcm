@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UCC27531DBVR
+D 2.5-A, 5-A, 35-VMAX VDD FET and IGBT Single Gate Driver
+K
+F http://www.ti.com/lit/gpn/ucc27531
+$ENDCMP
+#
+#End Doc Library

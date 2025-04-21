@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_20427615"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-03-17-02:10:10)
+    (utime 2025-03-17-02:10:10)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "IHLP5050EZER4R7M5A")
+)
+
+
+(pinAssign "ECS_20427615"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-03-17-02:10:10)
+    (utime 2025-03-17-02:10:10)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_20427615")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "IHLP5050EZER4R7M5A")
+)
+
+
+(part "IHLP5050EZER4R7M5A"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-03-17-02:10:10)
+    (utime 2025-03-17-02:10:10)
+    (packageRef "IHLP5050EZER4R7M5A")
+    (pinAssignRef "ECS_20427615")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "4.7 H Shielded Molded Inductor 15.3 A 10.1mOhm Max Nonstandard")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "IHLP5050EZER4R7M5A")
+    (property "Datasheet_Link" "https://www.vishay.com/docs/34507/ihlp-5050ez-5a.pdf")
+    (property "compAreaTopHeight" 5)
+)
+
+

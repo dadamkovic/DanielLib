@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STL45P3LLH6
+PartCategory=MOSFET (P-Channel)
+PackageCategory=Other
+PinCount=9
+Version=1.3
+Released=2021-10-30 08:07:24
+Downloaded=2025-04-21 02:53:13
+3D=Y

@@ -1,0 +1,16 @@
+.SQJ951EP-T1_GE3 :1 ;MOSFET Dual P-Channel 30V AEC-Q101 Qualified
+SQJ968EPT1GE3
+*STM Q
+*NGS
+*PLB 1="S1" 2="G1" 3="S2" 4="G2" 5="D1" 6="D2"
+*MXP 10
+*DFN SQJ951EP-T1_GE3
+~!Mouser Part Number (78-SQJ951EP-T1_GE3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SQJ951EP-T1_GE3?qs=ILgNtqsyH20s79Ingr8BFg%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (SQJ951EP-T1_GE3)
+~!Link Datasheet (http://www.vishay.com/docs/63658/sqj951ep.pdf)
+~!Height (-)
+~!3D_Model (SQJ951EP-T1_GE3)
+SQJ951EP-T1_GE3
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

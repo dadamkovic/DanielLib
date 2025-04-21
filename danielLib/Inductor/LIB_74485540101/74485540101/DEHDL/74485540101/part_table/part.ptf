@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '74485540101'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "74485540101" (!) = "", "74485540101", "Other", "710-74485540101", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/74485540101?qs=AQlKX63v8RuVFjT%252BdEtExQ%3D%3D", "Coupled Inductors WE-CFWI Cpld Flatwr 10uH 13A 13.9mOhms", "https://www.we-online.com/catalog/datasheet/74485540101.pdf", "12.5 mm"
+END_PART
+
+END.

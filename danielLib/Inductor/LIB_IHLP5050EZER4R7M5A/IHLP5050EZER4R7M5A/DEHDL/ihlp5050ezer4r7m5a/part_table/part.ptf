@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IHLP5050EZER4R7M5A'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "IHLP5050EZER4R7M5A" (!) = "", "INDPM135129X500N", "Inductors Precision Moulded", "", "", "4.7 H Shielded Molded Inductor 15.3 A 10.1mOhm Max Nonstandard", "https://www.vishay.com/docs/34507/ihlp-5050ez-5a.pdf", "5 mm"
+END_PART
+
+END.

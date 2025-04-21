@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model CPC1907B
+#/651346/164519/2.50/8/4/Undefined or Miscellaneous
+DEF CPC1907B U 0 30 Y Y 1 F N
+F0 "U" 1050 300 50 H V L CNN
+F1 "CPC1907B" 1050 200 50 H V L CNN
+F2 "CPC1907B" 1050 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/CPC1907B.pdf" 1050 0 50 H I L CNN
+F4 "IXYS +/-6 A dc SPNO Solid State Relay, DC, Surface Mount MOSFET" 1050 -100 50 H I L CNN "Description"
+F5 "3.556" 1050 -200 50 H I L CNN "Height"
+F6 "849-CPC1907B" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/IXYS-Integrated-Circuits/CPC1907B?qs=MxzUEhdSHRZ7Y3dH8lafpQ%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "LITTELFUSE" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "CPC1907B" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X N/C_1 1 0 0 200 R 50 50 0 0 P
+X +LED 2 0 -100 200 R 50 50 0 0 P
+X -LED 3 0 -200 200 R 50 50 0 0 P
+X N/C_2 4 0 -300 200 R 50 50 0 0 P
+X D1_1 5 1200 -300 200 L 50 50 0 0 P
+X D1_2 6 1200 -200 200 L 50 50 0 0 P
+X D2_1 7 1200 -100 200 L 50 50 0 0 P
+X D2_2 8 1200 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

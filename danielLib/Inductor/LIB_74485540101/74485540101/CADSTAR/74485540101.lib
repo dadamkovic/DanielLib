@@ -1,0 +1,16 @@
+.74485540101 :1 ;Coupled Inductors WE-CFWI Cpld Flatwr 10uH 13A 13.9mOhms
+"74485540101"
+*STM L
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN 74485540101
+~!Mouser Part Number (710-74485540101)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/74485540101?qs=AQlKX63v8RuVFjT%252BdEtExQ%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (74485540101)
+~!Link Datasheet (https://www.we-online.com/catalog/datasheet/74485540101.pdf)
+~!Height (12.5mm)
+~!3D_Model (74485540101)
+"74485540101"
+1.1!U 2.1!U 3.1!U 4.1!U 

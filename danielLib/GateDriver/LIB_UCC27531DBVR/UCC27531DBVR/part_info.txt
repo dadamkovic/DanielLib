@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=UCC27531DBVR
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=2.1
+Released=2017-07-06 15:44:50
+Downloaded=2025-04-20 20:48:05
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CPC1907B
+D IXYS +/-6 A dc SPNO Solid State Relay, DC, Surface Mount MOSFET
+K
+F https://componentsearchengine.com/Datasheets/1/CPC1907B.pdf
+$ENDCMP
+#
+#End Doc Library

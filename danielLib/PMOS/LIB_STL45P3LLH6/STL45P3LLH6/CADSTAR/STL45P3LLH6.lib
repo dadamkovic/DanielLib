@@ -1,0 +1,16 @@
+.STL45P3LLH6 :1 ;Trans MOSFET P-CH 30V 45A 8-Pin Power Flat EP T/R
+STL45P3LLH6
+*STM Q
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D_1" 6="D_2" 7="D_3" 8="D_4" 9="D_5"
+*MXP 9
+*DFN STL45P3LLH6
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (STL45P3LLH6)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/stl45p3llh6.pdf)
+~!Height (1mm)
+~!3D_Model (STL45P3LLH6)
+STL45P3LLH6
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

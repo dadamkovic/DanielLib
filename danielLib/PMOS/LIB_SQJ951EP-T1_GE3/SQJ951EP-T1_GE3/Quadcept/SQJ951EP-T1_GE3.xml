@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/910722/164519/2.50/6/4/MOSFET (P-Channel)/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="r72_41" surface="True" plated="False" isvia="False" nopaste="False" nomask="True" complex="False" holesize="0">
+    <padshape layer="TOP" shape="rectangle" width="16.141732283464" height="28.346456692913" />
+    <padshape layer="TOP_SOLDER_MASK" shape="rectangle" width="24.015748031496" height="36.220472440944" />
+    <padshape layer="TOP_SOLDER_PASTE" shape="rectangle" width="16.141732283464" height="28.346456692913" />
+  </padstyle>
+  <padstyle name="r399_173" surface="True" plated="False" isvia="False" nopaste="False" nomask="True" complex="False" holesize="0">
+    <padshape layer="TOP" shape="rectangle" width="68.110236220472" height="157.08661417323" />
+    <padshape layer="TOP_SOLDER_MASK" shape="rectangle" width="75.984251968503" height="164.96062992126" />
+    <padshape layer="TOP_SOLDER_PASTE" shape="rectangle" width="68.110236220472" height="157.08661417323" />
+  </padstyle>
+  <padstyle name="r47_41" surface="True" plated="False" isvia="False" nopaste="False" nomask="True" complex="False" holesize="0">
+    <padshape layer="TOP" shape="rectangle" width="16.141732283464" height="18.503937007874" />
+    <padshape layer="TOP_SOLDER_MASK" shape="rectangle" width="24.015748031496" height="26.377952755905" />
+    <padshape layer="TOP_SOLDER_PASTE" shape="rectangle" width="16.141732283464" height="18.503937007874" />
+  </padstyle>
+  <padstyle name="r58.5_51" surface="True" plated="False" isvia="False" nopaste="False" nomask="True" complex="False" holesize="0">
+    <padshape layer="TOP" shape="rectangle" width="20.07874015748" height="23.031496062992" />
+    <padshape layer="TOP_SOLDER_MASK" shape="rectangle" width="27.952755905511" height="30.905511811023" />
+    <padshape layer="TOP_SOLDER_PASTE" shape="rectangle" width="20.07874015748" height="23.031496062992" />
+  </padstyle>
+  <footprint name="SQJ968EPT1GE3" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="r72_41" originx="-74.999999999999" originy="-25.984251968504" rotation="0" />
+    <pcbpin number="2" name="2" style="r72_41" originx="-25" originy="-25.984251968504" rotation="0" />
+    <pcbpin number="3" name="3" style="r72_41" originx="25" originy="-25.984251968504" rotation="0" />
+    <pcbpin number="4" name="4" style="r72_41" originx="74.999999999999" originy="-25.984251968504" rotation="0" />
+    <pcbpin number="5" name="5" style="r399_173" originx="-43.897637795275" originy="123.42519685039" rotation="0" />
+    <pcbpin number="6" name="6" style="r399_173" originx="43.897637795275" originy="123.42519685039" rotation="0" />
+    <pcbpin number="7" name="7" style="r47_41" originx="87.204724409448" originy="193.93700787401" rotation="90" />
+    <pcbpin number="8" name="8" style="r47_41" originx="-87.204724409448" originy="193.93700787401" rotation="90" />
+    <pcbpin number="9" name="9" style="r58.5_51" originx="-87.204724409448" originy="76.771653543306" rotation="90" />
+    <pcbpin number="10" name="10" style="r58.5_51" originx="87.204724409448" originy="76.771653543306" rotation="90" />
+    <line layer="TOP_ASSEMBLY" originx="-96.456692913385" originy="172.04724409449" endx="96.456692913385" endy="172.04724409449" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="96.456692913385" originy="172.04724409449" endx="96.456692913385" endy="0" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="96.456692913385" originy="0" endx="-96.456692913385" endy="0" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-96.456692913385" originy="0" endx="-96.456692913385" endy="172.04724409449" width="7.8740157480314" />
+    <line layer="TOP_PLACE_BOUND" originx="-138.11023622047" originy="241.3779527559" endx="138.11023622047" endy="241.3779527559" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="138.11023622047" originy="241.3779527559" endx="138.11023622047" endy="-79.527559055117" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="138.11023622047" originy="-79.527559055117" endx="-138.11023622047" endy="-79.527559055117" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-138.11023622047" originy="-79.527559055117" endx="-138.11023622047" endy="241.3779527559" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-96.456692913385" originy="59.055118110235" endx="-96.456692913385" endy="0" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-96.456692913385" originy="0" endx="96.456692913385" endy="0" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="96.456692913385" originy="0" endx="96.456692913385" endy="59.055118110235" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-96.456692913385" originy="98.425196850392" endx="-96.456692913385" endy="172.04724409449" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="96.456692913385" originy="98.425196850392" endx="96.456692913385" endy="172.04724409449" width="3.9370078740157" />
+  </footprint>
+  <symbol name="SQJ951EP-T1_GE3" originx="0" originy="0">
+    <line originx="200" originy="100" endx="700" endy="100" width="0" />
+    <line originx="700" originy="-300" endx="700" endy="100" width="0" />
+    <line originx="700" originy="-300" endx="200" endy="-300" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-300" width="0" />
+    <sympin number="1" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="S1" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="200" originy="-100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="G1" />
+      <text name="pindes" originx="140" originy="-80" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="2" />
+    </sympin>
+    <sympin number="3" originx="200" originy="-200" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="S2" />
+      <text name="pindes" originx="140" originy="-180" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="3" />
+    </sympin>
+    <sympin number="4" originx="700" originy="0" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="670" originy="0" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="G2" />
+      <text name="pindes" originx="760" originy="20" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="4" />
+    </sympin>
+    <sympin number="5" originx="700" originy="-100" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="670" originy="-100" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="D1" />
+      <text name="pindes" originx="760" originy="-80" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="5" />
+    </sympin>
+    <sympin number="6" originx="700" originy="-200" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="670" originy="-200" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="D2" />
+      <text name="pindes" originx="760" originy="-180" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="6" />
+    </sympin>
+  </symbol>
+  <component name="SQJ951EP-T1_GE3" designatorprefix="Q" height="0" footprint="SQJ968EPT1GE3">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="S1" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="G1" />
+    <comppin designator="3" sympin="3" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="S2" />
+    <comppin designator="4" sympin="4" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="G2" />
+    <comppin designator="5" sympin="5" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="D1" />
+    <comppin designator="6" sympin="6" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="D2" />
+    <attached_symbol gate="1" name="SQJ951EP-T1_GE3" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <pinmap designator="3" footprintpin="3" />
+    <pinmap designator="4" footprintpin="4" />
+    <pinmap designator="5" footprintpin="5" />
+    <pinmap designator="6" footprintpin="6" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="http://www.vishay.com/docs/63658/sqj951ep.pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="MOSFET Dual P-Channel 30V AEC-Q101 Qualified" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="78-SQJ951EP-T1_GE3" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SQJ951EP-T1_GE3?qs=ILgNtqsyH20s79Ingr8BFg%3D%3D" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Vishay" />
+    <text name="Manufacturer_Part_Number" originx="750" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="SQJ951EP-T1_GE3" />
+  </component>
+</quadcept_library>
