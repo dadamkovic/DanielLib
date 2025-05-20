@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LPF-S014331S
+#/362811/164519/2.50/2/3/Hardware
+DEF LPF-S014331S H 0 30 Y Y 1 F N
+F0 "H" 650 300 50 H V L CNN
+F1 "LPF-S014331S" 650 200 50 H V L CNN
+F2 "LPFS014331S" 650 100 50 H I L CNN
+F3 "https://www.lumex.com/spec/LPF-S014331S.pdf" 650 0 50 H I L CNN
+F4 "Light Pipe 4 High Clear Rigid Board Mount, Press Fit, Right Angle" 650 -100 50 H I L CNN "Description"
+F5 "21.88" 650 -200 50 H I L CNN "Height"
+F6 "696-LPF-S014331S" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Lumex/LPF-S014331S?qs=52yRZiL3nOrXppn1MYFAFw%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Lumex" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LPF-S014331S" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 -100 200 R 50 50 0 0 P
+X 2 2 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

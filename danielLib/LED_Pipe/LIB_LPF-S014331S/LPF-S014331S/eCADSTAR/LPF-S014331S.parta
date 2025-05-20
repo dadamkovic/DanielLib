@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_362811"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-09-28-08:49:56)
+    (utime 2024-11-23-06:02:22)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "LPF-S014331S")
+)
+
+
+(pinAssign "ECS_362811"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-09-28-08:49:56)
+    (utime 2024-11-23-06:02:22)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_362811")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "LPF-S014331S")
+)
+
+
+(part "LPF-S014331S"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-09-28-08:49:56)
+    (utime 2024-11-23-06:02:22)
+    (packageRef "LPF-S014331S")
+    (pinAssignRef "ECS_362811")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "H")
+    (property "description" "Light Pipe 4 High Clear Rigid Board Mount, Press Fit, Right Angle")
+    (property "Mouser_Part_Number" "696-LPF-S014331S")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lumex/LPF-S014331S?qs=52yRZiL3nOrXppn1MYFAFw%3D%3D")
+    (property "Manufacturer_Name" "Lumex")
+    (property "Manufacturer_Part_Number" "LPF-S014331S")
+    (property "Datasheet_Link" "https://www.lumex.com/spec/LPF-S014331S.pdf")
+    (property "compAreaTopHeight" 21.88)
+)
+
+

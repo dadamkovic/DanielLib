@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LPF_S014331S'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Lumex", "LPF-S014331S" (!) = "", "LPFS014331S", "Other", "696-LPF-S014331S", "https://www.mouser.co.uk/ProductDetail/Lumex/LPF-S014331S?qs=52yRZiL3nOrXppn1MYFAFw%3D%3D", "Light Pipe 4 High Clear Rigid Board Mount, Press Fit, Right Angle", "https://www.lumex.com/spec/LPF-S014331S.pdf", "21.88 mm"
+END_PART
+
+END.

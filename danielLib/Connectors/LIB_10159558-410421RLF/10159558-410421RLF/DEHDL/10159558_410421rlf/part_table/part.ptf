@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '10159558_410421RLF'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol Communications Solutions", "10159558-410421RLF" (!) = "", "10159558410421RLF", "Other", "649-1015955841421RLF", "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/10159558-410421RLF?qs=QNEnbhJQKva7HjZyp6dv%2Fw%3D%3D", "ComboStak<sup>&reg;</sup> Vertical Header 2P 10S 2P Height 4.3mm", "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_combostak_powerstak.pdf", "8.2 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Amphenol Communications Solutions
+PartNumber=10159559-410221RLF
+PartCategory=Connector
+PackageCategory=Other
+PinCount=16
+Version=10.6
+Released=2022-02-04 09:57:28
+Downloaded=2025-05-17 03:49:30
+3D=Y

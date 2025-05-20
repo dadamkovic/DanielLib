@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 10159558-410421RLF
+#/15473196/164519/2.50/16/2/Connector
+DEF 10159558-410421RLF J 0 30 Y Y 1 F N
+F0 "J" 850 300 50 H V L CNN
+F1 "10159558-410421RLF" 850 200 50 H V L CNN
+F2 "10159558410421RLF" 850 100 50 H I L CNN
+F3 "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_combostak_powerstak.pdf" 850 0 50 H I L CNN
+F4 "ComboStak<sup>&reg;</sup> Vertical Header 2P 10S 2P Height 4.3mm" 850 -100 50 H I L CNN "Description"
+F5 "8.2" 850 -200 50 H I L CNN "Height"
+F6 "649-1015955841421RLF" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/10159558-410421RLF?qs=QNEnbhJQKva7HjZyp6dv%2Fw%3D%3D" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Amphenol Communications Solutions" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "10159558-410421RLF" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X P1 P1 0 0 200 R 50 50 0 0 P
+X P2 P2 0 -100 200 R 50 50 0 0 P
+X P3 P3 0 -200 200 R 50 50 0 0 P
+X P4 P4 0 -300 200 R 50 50 0 0 P
+X S1 S1 0 -400 200 R 50 50 0 0 P
+X S2 S2 0 -500 200 R 50 50 0 0 P
+X S3 S3 0 -600 200 R 50 50 0 0 P
+X S4 S4 0 -700 200 R 50 50 0 0 P
+X S5 S5 1000 0 200 L 50 50 0 0 P
+X S6 S6 1000 -100 200 L 50 50 0 0 P
+X S7 S7 1000 -200 200 L 50 50 0 0 P
+X S8 S8 1000 -300 200 L 50 50 0 0 P
+X S9 S9 1000 -400 200 L 50 50 0 0 P
+X S10 S10 1000 -500 200 L 50 50 0 0 P
+X MP1 MP1 1000 -600 200 L 50 50 0 0 P
+X MP2 MP2 1000 -700 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -800 200 -800 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,9 @@
+Manufacturer=Lumex
+PartNumber=LPF-S014331S
+PartCategory=Hardware
+PackageCategory=Other
+PinCount=2
+Version=2.4
+Released=2021-09-28 08:49:56
+Downloaded=2025-05-20 00:27:53
+3D=Y

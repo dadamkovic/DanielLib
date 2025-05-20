@@ -1,0 +1,148 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "LPF-S014331S"
+   (description "Light Pipe 4 High Clear Rigid Board Mount, Press Fit, Right Angle")
+   (family "ANA")
+   (package "LPFS014331S")
+   (attribute "Datasheet Link" "https://www.lumex.com/spec/LPF-S014331S.pdf")
+   (attribute "Geometry.Height" "21.88mm")
+   (attribute "Mouser Part Number" "696-LPF-S014331S")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lumex/LPF-S014331S?qs=52yRZiL3nOrXppn1MYFAFw%3D%3D")
+   (attribute "Manufacturer_Name" "Lumex")
+   (attribute "Manufacturer_Part_Number" "LPF-S014331S")
+   (gate
+    (symbol "LPF-S014331S")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "LPF-S014331S"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "LPFS014331S"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -9.06 10.09)
+      (pt 8.94 10.09)
+      (pt 8.94 -1.85)
+      (pt -9.06 -1.85)
+      (pt -9.06 10.09))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -10.06 11.453)
+      (pt 20.69 11.453)
+      (pt 20.69 -3.213)
+      (pt -10.06 -3.213)
+      (pt -10.06 11.453))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 8.94 2.53)
+      (pt 19.69 2.53)
+      (pt 19.69 5.71)
+      (pt 16.13 5.71)
+      (pt 16.13 6.47)
+      (pt 15.42 6.47)
+      (pt 15.42 5.71)
+      (pt 8.94 5.71))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 8.94 2.53)
+      (pt 19.69 2.53)
+      (pt 19.69 5.71)
+      (pt 16.13 5.71)
+      (pt 16.13 6.47)
+      (pt 15.42 6.47)
+      (pt 15.42 5.71)
+      (pt 8.94 5.71))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 -2.7)
+      (arc (pt 0.000 -2.700) (pt -0.050 -2.800) (pt 0.050 -2.700) (start 180.0) (sweep 90.0))
+      (pt 0 -2.8)
+      (arc (pt 0.000 -2.800) (pt -0.050 -2.800) (pt 0.050 -2.700) (start 180.0) (sweep -90.0))
+      (pt 0 -2.7))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 2.5 10.09)
+      (pt 8.94 10.09)
+      (pt 8.94 -1.85)
+      (pt 3 -1.85))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3 -1.85)
+      (pt -9.06 -1.85)
+      (pt -9.06 10.09)
+      (pt -2.5 10.09))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 0.000 8.240) (padstack 2))
+   (padstack 0
+    (hole 2.95)
+    (plated true)
+    (pad (layer TCOP) (square 4.425))
+    (pad (layer INNER) (round 4.425))
+    (pad (layer BCOP) (square 4.425))
+   )
+   (padstack 2
+    (hole 2.95)
+    (plated true)
+    (pad (layer TCOP) (round 4.425))
+    (pad (layer INNER) (round 4.425))
+    (pad (layer BCOP) (round 4.425))
+   )
+   (model "LPF-S014331S.stp"
+    (euler 90 0 0)
+    (offset -0.05999999865889549 4.119999885559082 -0.019999999552965164)
+   )
+  )
+ )
+)
